@@ -148,9 +148,6 @@ https://yaduvanshi5501.github.io/Sportify-Clone/
 
 ---
 
-
----
-
 # 🚀 Featured Projects
 
 <table>
