@@ -14,8 +14,13 @@
   <a href="https://github.com/yaduvanshi5501">
     <img src="https://img.shields.io/github/followers/yaduvanshi5501?label=Followers&style=for-the-badge" alt="GitHub Followers"/>
   </a>
+
   <a href="https://github.com/yaduvanshi5501?tab=repositories">
-    <img src="https://img.shields.io/github/stars/yaduvanshi5501?label=Stars&style=for-the-badge" alt="GitHub Stars"/>
+    <img src="https://img.shields.io/badge/Repositories-Explore-blue?style=for-the-badge&logo=github" alt="Repositories"/>
+  </a>
+
+  <a href="https://www.linkedin.com/in/satish-kumar-2058b4258">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn"/>
   </a>
 </p>
 
@@ -51,66 +56,65 @@ https://yaduvanshi5501.github.io/Sportify-Clone/
 ### 👨‍💻 Programming Languages
 
 <p align="left">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="45"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="45"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="45"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="45"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="45"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="45"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sqlite/sqlite-original.svg" width="45"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="45"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="45"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="45"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="45"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="45"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="45"/>
 </p>
 
 ### 🌐 Frontend
 
 <p align="left">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="45"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="45"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="45"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" width="45"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg" width="45"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="45"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="45"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="45"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" width="45"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg" width="45"/>
 </p>
 
 ### ☕ Backend
 
 <p align="left">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" width="45"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="45"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" width="45"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" width="45"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="45"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" width="45"/>
 </p>
 
 ### 🗄️ Databases
 
 <p align="left">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="45"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" width="45"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="45"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="45"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" width="45"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="45"/>
 </p>
 
 ### ☁️ Cloud & DevOps
 
 <p align="left">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" width="45"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-original.svg" width="45"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="45"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="45"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jenkins/jenkins-original.svg" width="45"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="55"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" width="45"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-original.svg" width="45"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="45"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="45"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jenkins/jenkins-original.svg" width="45"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="55"/>
 </p>
 
 ### 🔄 Messaging & Distributed Systems
 
 <p align="left">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apachekafka/apachekafka-original.svg" width="45"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rabbitmq/rabbitmq-original.svg" width="45"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apachekafka/apachekafka-original.svg" width="45"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rabbitmq/rabbitmq-original.svg" width="45"/>
 </p>
 
 ### 🤖 AI / Machine Learning
 
 <p align="left">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="45"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg" width="45"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" width="45"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/scikitlearn/scikitlearn-original.svg" width="45"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="45"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg" width="45"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" width="45"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/scikitlearn/scikitlearn-original.svg" width="45"/>
 </p>
 
 ---
@@ -118,8 +122,17 @@ https://yaduvanshi5501.github.io/Sportify-Clone/
 # 📊 GitHub Analytics
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=yaduvanshi5501&show_icons=true&count_private=true&include_all_commits=true&rank_icon=github&hide_border=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yaduvanshi5501&layout=compact&langs_count=8&hide_border=true" />
+  <img
+    height="180"
+    src="https://github-readme-stats.vercel.app/api?username=yaduvanshi5501&show_icons=true&count_private=true&include_all_commits=true&rank_icon=github&hide_border=true"
+    alt="GitHub Stats"
+  />
+
+  <img
+    height="180"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=yaduvanshi5501&layout=compact&langs_count=8&hide_border=true"
+    alt="Top Languages"
+  />
 </p>
 
 ---
@@ -127,31 +140,23 @@ https://yaduvanshi5501.github.io/Sportify-Clone/
 # 🔥 GitHub Contribution Streak
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yaduvanshi5501&hide_border=true" alt="GitHub Streak"/>
+  <img
+    src="https://streak-stats.demolab.com/?user=yaduvanshi5501&hide_border=true"
+    alt="GitHub Contribution Streak"
+  />
 </p>
 
 ---
 
-# 🏆 GitHub Trophies
+# 📈 GitHub Contribution Graph
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=yaduvanshi5501&theme=flat&no-frame=true&margin-w=10&row=2&column=4" />
-</p>
-
----
-
-# 📈 Contribution Activity
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=yaduvanshi5501&hide_border=true&area=true" alt="Contribution Activity Graph"/>
-</p>
-
----
-
-# 🐍 Contribution Snake
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/yaduvanshi5501/yaduvanshi5501/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake"/>
+  <a href="https://github.com/yaduvanshi5501">
+    <img
+      src="https://github-readme-activity-graph.vercel.app/graph?username=yaduvanshi5501&hide_border=true&area=true"
+      alt="GitHub Contribution Graph"
+    />
+  </a>
 </p>
 
 ---
@@ -222,94 +227,3 @@ Docker & Kubernetes
 CI/CD & DevOps
         ↓
 AI / RAG / Generative AI
-```
-
----
-
-# 💻 DSA & Problem Solving
-
-I regularly practice Data Structures & Algorithms to improve problem-solving and coding skills.
-
-### Topics I'm Practicing
-
-- Arrays & Strings
-- Linked Lists
-- Stack & Queue
-- Binary Search
-- Two Pointers
-- Sliding Window
-- Prefix Sum
-- Recursion & Backtracking
-- Trees & Graphs
-- Heap & Priority Queue
-- Dynamic Programming
-- Greedy Algorithms
-- Sorting & Searching
-
----
-
-# 📚 Areas of Interest
-
-```text
-Backend Development
-      │
-      ├── Java
-      ├── Spring Boot
-      ├── REST APIs
-      ├── Microservices
-      └── Kafka
-
-Frontend Development
-      │
-      ├── React
-      ├── TypeScript
-      ├── JavaScript
-      └── Bootstrap
-
-Cloud & DevOps
-      │
-      ├── AWS
-      ├── Docker
-      ├── Kubernetes
-      ├── Jenkins
-      └── GitHub Actions
-
-Artificial Intelligence
-      │
-      ├── Generative AI
-      ├── RAG
-      ├── Spring AI
-      └── Machine Learning
-```
-
----
-
-# 🤝 Connect With Me
-
-<p align="center">
-
-<a href="https://www.linkedin.com/in/satish-kumar-2058b4258">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"/>
-</a>
-
-<a href="mailto:satish.kumar.iem@gmail.com">
-<img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail"/>
-</a>
-
-<a href="https://github.com/yaduvanshi5501">
-<img src="https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github"/>
-</a>
-
-</p>
-
----
-
-# ⚡ GitHub Activity
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yaduvanshi5501&show_icons=true&hide_title=true&hide_border=true&count_private=true" />
-</p>
-
-<p align="center">
-  <i>Building. Learning. Breaking. Fixing. Repeating. 🚀</i>
-</p>
