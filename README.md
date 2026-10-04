@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Satish Kumar</h1>
 <h3 align="center">Software Engineer | Java | Spring Boot | React | AI</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=yaduvanshi5501&label=Profile%20views&color=0e75b6&style=flat" alt="yaduvanshi5501" /> </p>
-
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yaduvanshi5501" alt="yaduvanshi5501" /></a> </p>
 
 - 🔭 I’m currently working on [Sportify](https://yaduvanshi5501.github.io/Sportify-Clone/)
