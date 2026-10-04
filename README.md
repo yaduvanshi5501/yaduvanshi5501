@@ -148,16 +148,6 @@ https://yaduvanshi5501.github.io/Sportify-Clone/
 
 ---
 
-# 📈 GitHub Contribution Graph
-
-<p align="center">
-  <a href="https://github.com/yaduvanshi5501">
-    <img
-      src="https://github-readme-activity-graph.vercel.app/graph?username=yaduvanshi5501&hide_border=true&area=true"
-      alt="GitHub Contribution Graph"
-    />
-  </a>
-</p>
 
 ---
 
